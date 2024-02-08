@@ -1,0 +1,8 @@
+type HeadingType = "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
+
+interface HeadingProps {
+  level?: HeadingType;
+  children?: string;
+}
+
+export { HeadingProps, HeadingType };

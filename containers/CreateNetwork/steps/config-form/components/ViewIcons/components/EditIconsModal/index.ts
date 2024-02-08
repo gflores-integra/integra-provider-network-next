@@ -1,0 +1,1 @@
+export { EditIconsModal } from "./EditIconsModal";

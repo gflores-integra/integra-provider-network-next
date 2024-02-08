@@ -1,0 +1,1 @@
+export { StaticTableRow } from "./StaticTableRow";

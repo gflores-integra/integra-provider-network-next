@@ -1,0 +1,1 @@
+export { FloatingChatComponent } from "./Chat";
